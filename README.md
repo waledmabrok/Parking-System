@@ -4,7 +4,7 @@
 This Arduino project implements a simple parking system that uses IR sensors to detect the presence of vehicles and a servo motor to control a barrier. The system also includes an LCD display to show the number of available parking slots.
 
 ## Components
-- Arduino board (e.g., Uno)
+- Arduino board
 - 2 IR sensors
 - Servo motor
 - LCD display with I2C interface
